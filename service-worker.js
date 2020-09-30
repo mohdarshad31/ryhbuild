@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://niletechinnovations.com/projects/researchyourhealth/precache-manifest.4e22e1aade42533777c945217f471307.js"
+  "https://niletechinnovations.com/projects/researchyourhealth/precache-manifest.892ab2db5872d41ea7f09531e621e741.js"
 );
 
 self.addEventListener('message', (event) => {
